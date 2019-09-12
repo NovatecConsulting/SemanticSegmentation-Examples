@@ -7,3 +7,10 @@ If you want to test the webcam application copy the juypter notebook you find in
 You get the DeepLab directory on this link: https://github.com/tensorflow/models/tree/master/research/deeplab
 
 When you run it, you can see a real-time segmentation of your webcam.
+
+**2. Carvana Image Masking Challenge: Training U-Net:**
+
+First of all you have to download the datasets of the Carvana Challenge: https://www.kaggle.com/c/carvana-image-masking-challenge
+Make sure, that you have installed all the needed libraries and frameworks like tensorflow-GPU and Keras.
+For this application, you will need a GPU.
+Run the provided Notebook (model_cnn) in the folder and train your model.
