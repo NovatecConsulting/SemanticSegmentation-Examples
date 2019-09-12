@@ -11,6 +11,8 @@ When you run it, you can see a real-time segmentation of your webcam.
 **2. Carvana Image Masking Challenge: Training U-Net:**
 
 First of all you have to download the datasets of the Carvana Challenge: https://www.kaggle.com/c/carvana-image-masking-challenge
+
 Make sure, that you have installed all the needed libraries and frameworks like tensorflow-GPU and Keras.
 For this application, you will need a GPU.
-Run the provided Notebook (model_cnn) in the folder and train your model.
+
+Run the provided Notebook (model_cnn) in the Carvana Image Masking folder and train your model.
