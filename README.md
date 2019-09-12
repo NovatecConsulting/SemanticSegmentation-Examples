@@ -15,4 +15,4 @@ First of all you have to download the datasets of the Carvana Challenge: https:/
 Make sure, that you have installed all the needed libraries and frameworks like tensorflow-GPU and Keras.
 For this application, you will need a GPU.
 
-Clone and run the provided Notebook (model_cnn) (you find it in the Carvana Image Masking folder) and train your model.
+Clone and run the provided Notebook (model_cnn) and train your model.
