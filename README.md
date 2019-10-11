@@ -25,4 +25,4 @@ Related Blogpost: https://www.novatec-gmbh.de/blog/semantic-segmentation-part-2-
 
 Download the required datasets of the challenge: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data.
 
-Follow the instructions of the related blogpost (https://www.novatec-gmbh.de/blog/semantic-segmentation-part-3-transfer-learning) and download the Mask R-CNN repository. After that you can clone or copy the notebook in the folder 'RSNA Pneumonia Detection' and run it!
+Follow the instructions of the related blogpost (https://www.novatec-gmbh.de/blog/semantic-segmentation-part-3-transfer-learning) and download the Mask R-CNN repository. After that you can clone or copy the notebook from the folder 'RSNA Pneumonia Detection' and run it!
